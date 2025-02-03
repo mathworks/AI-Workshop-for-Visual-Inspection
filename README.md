@@ -20,4 +20,4 @@ Pill-QC Dataset is owned by MathWorks
 * [Image Processing Toolbox&trade;](https://www.mathworks.com/products/image.html)
 * [Computer Vision Toolbox&trade;](https://www.mathworks.com/products/computer-vision.html)
 
-Copyright 2022 The MathWorks, Inc.
+Copyright 2025 The MathWorks, Inc.
