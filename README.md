@@ -12,7 +12,7 @@ This hands-on workshop will require you to write and run code in MATLAB&reg; Onl
 MathWorks instructors and teaching assistants (TAs) will be available throughout the session to guide you. If the event is being held onsite, please bring your laptop and install the Google Chrome browser beforehand. 
 
 ## Data
-Pill-QC Dataset is owned by MathWorks
+Pill-QC & CoffeePod datasets are owned by MathWorks
 
 ## Relevant products
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
